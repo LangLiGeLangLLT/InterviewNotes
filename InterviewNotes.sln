@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{B09EE8BC-9888-490A-B33C-F68342537A1F}"
+	ProjectSection(SolutionItems) = preProject
+		code\排序笔记.md = code\排序笔记.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "page", "page", "{C9A352AD-AA8A-44B9-8101-49E547375E1F}"
+	ProjectSection(SolutionItems) = preProject
+		page\排序笔记.html = page\排序笔记.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300EAE97-BD3D-453D-A887-76BC07B6B9BC}
+	EndGlobalSection
+EndGlobal
